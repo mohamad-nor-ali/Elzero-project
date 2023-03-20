@@ -1,3 +1,4 @@
 this is project from elzero web school 
 i study front end devdloper from him 
 i need study js
+i have a background about html & css
